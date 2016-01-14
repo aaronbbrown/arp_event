@@ -79,7 +79,7 @@ This will output something like:
 Joe is home
 Jane is home
 Joe left (last seen: 2016-01-14 12:41:34 -0500)
-Jane came home (last seen: 2016-01-14 12:41:34 -0500)
+Joe came home (last seen: 2016-01-14 12:41:34 -0500)
 ```
 
 ## Development
